@@ -1,4 +1,6 @@
 {
     "RepetitionTime": 2.0,
-    "TaskName": "mixed-gambles task"
+    "TaskName": "mixed-gambles task",
+    "TotalReadoutTime": 0.05,
+    "PhaseEncodingDirection": "j"
 }
